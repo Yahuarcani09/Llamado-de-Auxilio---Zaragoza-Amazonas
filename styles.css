@@ -1,0 +1,82 @@
+css
+body {  
+    font-family: 'Times New Roman', Times, serif, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+    background-color: #f3a0a0;  
+}  
+
+section {  
+    background-color: #007BFF;  
+    color: rgb(5, 1, 1);  
+    padding: 20px;  
+    text-align: center;  
+}  
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1, h2 {  
+    margin: 15px 0;  
+}  
+
+main {  
+    padding: 30px;  
+}  
+
+section {  
+    margin-bottom: 20px;  
+    background-color: #007BFF(53, 226, 226); 
+    padding: 15px;  
+    border-radius: 5px;  
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+}  
+.esplicacion {
+    border: solid black
+}
+.sequiaAlto {
+    border: 2px solid black;
+}
+.sequia1 {
+    border: 2px solid black;
+}
+.sequia2 {
+    border: 2px solid black;
+}
+.sequia {
+    border: 2px solid black;
+}
+.niños {
+    border: 2px solid black;
+}
+.niños1 {
+    border: 2px solid black;
+}
+.images, .videos {  
+    display: flex;  
+    flex-wrap: wrap;  
+}  
+
+.images img {  
+    width: 30%;  
+    margin: 5px;  
+    border-radius: 5px;  
+}  
+
+.videos iframe {  
+    width: 45%;  
+    margin: 5px;  
+    height: 200px;  
+}  
+
+footer {  
+    text-align: center;  
+    margin-top: 30px;  
+    font-size: 14px;  
+}  
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 40px;
+}
